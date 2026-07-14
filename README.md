@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [2235-add-two-integers](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2235-add-two-integers/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
