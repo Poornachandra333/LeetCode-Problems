@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2235-add-two-integers](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2235-add-two-integers/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## String
