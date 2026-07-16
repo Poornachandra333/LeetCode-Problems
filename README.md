@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Breadth-First Search
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0412-fizz-buzz/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
