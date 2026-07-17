@@ -1,35 +1,30 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        HashMap<HashMap<Character,Integer>,List<String>>hm = new HashMap<>();
+        HashMap<String,List<String>>hm = new HashMap<>();
         for(int i=0;i<strs.length;i++){
-            HashMap<Character,Integer>unique = new HashMap<>();
-            for(int j=0;j<strs[i].length();j++){
-                if(unique.containsKey(strs[i].charAt(j))){
-                    int temp = unique.get(strs[i].charAt(j));
-                    unique.put(strs[i].charAt(j),temp+1);
-                }
-                else{
-                    unique.put(strs[i].charAt(j),1);
-                }
-            }
-            if(hm.containsKey(unique)){
-                List<String>list = hm.get(unique);
-                list.add(strs[i]);
-                hm.put(unique,list);
+            String s = strs[i];
+            char arr[] = s.toCharArray();
+            //System.out.println(arr);
+            Arrays.sort(arr);
+            String p = new String(arr);
+            if(hm.containsKey(p)){
+                List<String> li = hm.get(p);
+                li.add(s);
+                hm.put(p,li);
             }
             else{
-                List<String>list = new ArrayList<>();
-                list.add(strs[i]);
-                hm.put(unique,list);
+                List<String>li = new ArrayList<>();
+                li.add(s);
+                hm.put(p,li);
             }
+            //System.out.println(p);
         }
         //System.out.println(hm);
-        List<List<String>>ans = new ArrayList<>();
-        for(HashMap<Character,Integer> h :hm.keySet())
-        {
-            List<String>res = new ArrayList<>(hm.get(h));
-            ans.add(res);
+        List<List<String>>list = new ArrayList<>();
+        for(String s:hm.keySet()){
+            List<String>ans = hm.get(s);
+            list.add(ans);
         }
-        return ans;
+        return list;
     }
 }
