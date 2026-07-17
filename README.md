@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2815-max-pair-sum-in-an-array](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2815-max-pair-sum-in-an-array](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
