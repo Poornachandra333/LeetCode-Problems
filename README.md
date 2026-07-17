@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2235-add-two-integers/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2523-closest-prime-numbers-in-range](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2523-closest-prime-numbers-in-range](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
