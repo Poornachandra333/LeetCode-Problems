@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2235-add-two-integers/) | Easy |
@@ -112,9 +114,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 <!---LeetCode Topics End-->
