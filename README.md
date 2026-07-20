@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2815-max-pair-sum-in-an-array](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1338-reduce-array-size-to-the-half](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,4 +136,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 <!---LeetCode Topics End-->
