@@ -4,7 +4,6 @@ class Solution {
         for(int i:nums){
             max = Math.max(i,max);
         }
-        System.out.println(max);
         boolean isPrime[]=new boolean[max+1];
         Arrays.fill(isPrime,true);
         isPrime[0]=false;
@@ -16,27 +15,32 @@ class Solution {
             }
             }
         }
-        System.out.println(Arrays.toString(isPrime));
         int n = nums.length;
         boolean result[]=new boolean[n];
         for(int i=0;i<n;i++){
             result[i]=isPrime[nums[i]];
         }
-        System.out.println(Arrays.toString(result));
+        boolean front = false;
+        boolean back = false;
         int left = 0;
-        for(int i=0;i<n;i++){
-            if(result[i]){
-                left = i;
-                break;
-            }
-        }
         int right = n-1;
-        for(int i=n-1;i>=0;i--){
-            if(result[i]){
-                right = i;
-                break;
+        while(left<=right){
+            if(front && back){
+                return right-left;
+            }
+            if(!front && result[left]){
+                front = true;
+            }
+            if(!back && result[right]){
+                back = true;
+            }
+            if(!front){
+                left++;
+            }
+            if(!back){
+                right--;
             }
         }
-        return right - left;
+        return 0;
     }
 }
