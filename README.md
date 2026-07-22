@@ -154,12 +154,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0402-remove-k-digits/) | Medium |
+| [0901-online-stock-span](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0901-online-stock-span/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0402-remove-k-digits/) | Medium |
+| [0901-online-stock-span](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0901-online-stock-span/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
