@@ -22,7 +22,7 @@ class Solution {
         }
         String ans =  res.reverse().toString();
         int i = 0;
-        while(i<ans.length()-1 && ans.charAt(i)=='0'){
+        while(i<ans.length() && ans.charAt(i)=='0'){
             i++;
         }
         ans = ans.substring(i);
