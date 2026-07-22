@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2761-prime-pairs-with-target-sum](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2815-max-pair-sum-in-an-array](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3115-maximum-prime-difference](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2523-closest-prime-numbers-in-range](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+| [3115-maximum-prime-difference](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/3115-maximum-prime-difference/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2427-number-of-common-factors](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2427-number-of-common-factors/) | Easy |
 | [2523-closest-prime-numbers-in-range](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+| [3115-maximum-prime-difference](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/3115-maximum-prime-difference/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
