@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2523-closest-prime-numbers-in-range](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/3115-maximum-prime-difference/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
