@@ -1,10 +1,14 @@
 class Solution {
     public int maxValidPairSum(int[] nums, int k) {
-        int maxLeftSum = 0;
+        int n = nums.length;
+        int suffixMax[]=new int[n];
+        suffixMax[n-1]=nums[n-1];
+        for(int i=n-2;i>=0;i--){
+            suffixMax[i]=Math.max(nums[i],suffixMax[i+1]);
+        }
         int max = 0;
-        for(int i=k;i<nums.length;i++){
-            maxLeftSum = Math.max(maxLeftSum,nums[i-k]);
-            max = Math.max(max,maxLeftSum+nums[i]);
+        for(int i=0;i+k<n;i++){
+            max = Math.max(max,nums[i]+suffixMax[i+k]);
         }
         return max;
     }
