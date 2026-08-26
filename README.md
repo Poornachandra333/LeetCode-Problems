@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0056-merge-intervals/) | Medium |
+| [0169-majority-element](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0881-boats-to-save-people/) | Medium |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -170,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Two Pointers
@@ -231,4 +235,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
