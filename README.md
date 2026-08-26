@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0204-count-primes](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0735-asteroid-collision](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0735-asteroid-collision/) | Medium |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Hash Table
