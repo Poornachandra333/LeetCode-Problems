@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0056-merge-intervals/) | Medium |
 | [0169-majority-element](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0242-valid-anagram](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0402-remove-k-digits](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0402-remove-k-digits/) | Medium |
 | [0412-fizz-buzz](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
