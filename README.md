@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0057-insert-interval/) | Medium |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0056-merge-intervals/) | Medium |
 | [0169-majority-element](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
