@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0125-valid-palindrome](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0402-remove-k-digits](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0402-remove-k-digits/) | Medium |
 | [0412-fizz-buzz](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0412-fizz-buzz/) | Easy |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0125-valid-palindrome](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
