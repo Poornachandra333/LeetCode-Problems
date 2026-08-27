@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0402-remove-k-digits/) | Medium |
 | [0412-fizz-buzz](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0567-permutation-in-string](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -265,5 +268,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
