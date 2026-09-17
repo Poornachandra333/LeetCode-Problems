@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0091-decode-ways](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0139-word-break/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0076-minimum-window-substring/) | Hard |
+| [0091-decode-ways](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0139-word-break/) | Medium |
 | [0242-valid-anagram](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
