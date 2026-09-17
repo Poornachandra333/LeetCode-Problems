@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0139-word-break/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0647-palindromic-substrings](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0647-palindromic-substrings/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0567-permutation-in-string/) | Medium |
+| [0647-palindromic-substrings](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0567-permutation-in-string](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0567-permutation-in-string/) | Medium |
+| [0647-palindromic-substrings](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
