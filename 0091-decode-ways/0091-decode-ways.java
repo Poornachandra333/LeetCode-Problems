@@ -7,7 +7,7 @@ class Solution {
             return dp[start];
         }
         if(s.charAt(start)=='0'){
-            return dp[start] =0;
+            return 0;
         }
         int count = 0;
         for(int end = start+1;end<=Math.min(start+2,s.length());end++){
@@ -16,7 +16,9 @@ class Solution {
             char ch = (char)(64+val);
             if(ch>='A' && ch<='Z'){
                 int c = solve(end,s,dp);
-                count+=c;
+                if(c!=0){
+                    count+=c;
+                }
             }
         }
         return dp[start] = count;
