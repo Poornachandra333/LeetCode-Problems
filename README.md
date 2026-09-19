@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Enumeration
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
@@ -367,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
