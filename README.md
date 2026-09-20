@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0735-asteroid-collision/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
