@@ -1,24 +1,26 @@
 class Solution {
-    public boolean solve(int start,String s,HashSet<String>list,Boolean dp[]){
+    public boolean solve(int start,String s,int dp[],HashSet<String>hs){
         if(start == s.length()){
             return true;
         }
-        if(dp[start]!=null){
-            return dp[start];
+        if(dp[start]!=-1){
+            return dp[start]==1;
         }
         for(int end = start+1;end<=s.length();end++){
             String word = s.substring(start,end);
-            if(list.contains(word) && solve(end,s,list,dp)){
-                dp[start] = true;
+            if(hs.contains(word) && solve(end,s,dp,hs)){
+                dp[start] = 1;
                 return true;
             }
         }
-        dp[start] = false;
+        dp[start] = 0;
         return false;
     }
     public boolean wordBreak(String s, List<String> wordDict) {
+        int n = s.length();
         HashSet<String>hs = new HashSet<>(wordDict);
-        Boolean dp[] = new Boolean[s.length()+1];
-        return solve(0,s,hs,dp);
+        int dp[] = new int[n];
+        Arrays.fill(dp,-1);
+        return solve(0,s,dp,hs);
     }
 }
