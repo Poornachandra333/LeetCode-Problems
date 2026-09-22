@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2707-extra-characters-in-a-string](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2707-extra-characters-in-a-string/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2815-max-pair-sum-in-an-array](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2707-extra-characters-in-a-string](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2707-extra-characters-in-a-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2707-extra-characters-in-a-string](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2707-extra-characters-in-a-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -221,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1338-reduce-array-size-to-the-half](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2707-extra-characters-in-a-string](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2707-extra-characters-in-a-string/) | Medium |
 | [2815-max-pair-sum-in-an-array](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -363,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0139-word-break/) | Medium |
+| [2707-extra-characters-in-a-string](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2707-extra-characters-in-a-string/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
