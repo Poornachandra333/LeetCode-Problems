@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0204-count-primes/) | Medium |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0139-word-break/) | Medium |
 ## Brute-Force Search
 | Problem Name | Difficulty |
