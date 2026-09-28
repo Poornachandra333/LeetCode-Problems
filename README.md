@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/2707-extra-characters-in-a-string/) | Medium |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0901-online-stock-span/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -429,4 +431,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
