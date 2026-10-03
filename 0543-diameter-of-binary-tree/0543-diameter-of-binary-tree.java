@@ -5,8 +5,6 @@
  *     TreeNode left;
  *     TreeNode right;
  *     TreeNode() {}
-
-
  *     TreeNode(int val) { this.val = val; }
  *     TreeNode(int val, TreeNode left, TreeNode right) {
  *         this.val = val;
@@ -16,18 +14,18 @@
  * }
  */
 class Solution {
-    int maxLen = 0;
+    int max = 0;
     public int solve(TreeNode root){
-        if(root == null){
+        if(root==null){
             return 0;
         }
-        int left = solve(root.left);
-        int right = solve(root.right);
-        maxLen = Math.max(maxLen,left+right);
-        return 1+Math.max(left,right);
+        int left = 1+solve(root.left);
+        int right = 1+solve(root.right);
+        max =Math.max(max,left+right);
+        return Math.max(left,right);
     }
     public int diameterOfBinaryTree(TreeNode root) {
         solve(root);
-        return maxLen;
+        return max-2;
     }
 }
