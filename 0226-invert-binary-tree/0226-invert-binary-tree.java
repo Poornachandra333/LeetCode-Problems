@@ -14,20 +14,24 @@
  * }
  */
 class Solution {
-    public TreeNode helper(TreeNode root){
-        if(root==null){
+    public TreeNode solve(TreeNode root){
+        if(root == null){
+            return null;
+        }
+        if(root.left == null && root.right == null){
             return root;
         }
-        TreeNode left = helper(root.left);
-        TreeNode right = helper(root.right);
+        TreeNode left = solve(root.left);
+        TreeNode right = solve(root.right);
+        TreeNode temp = root.right;
         root.right = left;
-        root.left = right;
+        root.left = temp;
         return root;
     }
     public TreeNode invertTree(TreeNode root) {
         if(root == null){
             return null;
         }
-        return helper(root);
+        return solve(root);
     }
 }
