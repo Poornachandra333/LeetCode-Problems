@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -364,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0113-path-sum-ii/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
@@ -378,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0113-path-sum-ii/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
@@ -390,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0113-path-sum-ii/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
