@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -371,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
