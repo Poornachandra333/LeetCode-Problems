@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0994-rotting-oranges](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0733-flood-fill](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
