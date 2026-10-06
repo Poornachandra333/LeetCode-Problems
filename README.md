@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0226-invert-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
+| [0802-find-eventual-safe-states](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -417,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
+| [0802-find-eventual-safe-states](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
@@ -480,8 +483,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0207-course-schedule/) | Medium |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
