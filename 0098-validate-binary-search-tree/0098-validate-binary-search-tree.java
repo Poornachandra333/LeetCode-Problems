@@ -15,16 +15,14 @@
  */
 class Solution {
     public boolean solve(TreeNode root,long left,long right){
+
         if(root == null){
             return true;
         }
-        if(root.val>left && root.val<right){
-            return solve(root.left,left,root.val) &&
-             solve(root.right,root.val,right);
-        }
-        else{
+        if(left>=root.val || right<=root.val){
             return false;
         }
+        return solve(root.left,left,root.val) && solve(root.right,root.val,right);
     }
     public boolean isValidBST(TreeNode root) {
         return solve(root,Long.MIN_VALUE,Long.MAX_VALUE);
