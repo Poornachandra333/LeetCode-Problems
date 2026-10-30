@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0743-network-delay-time/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0684-redundant-connection/) | Medium |
+| [0743-network-delay-time](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0743-network-delay-time/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1462-course-schedule-iv/) | Medium |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0743-network-delay-time/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Matrix
@@ -113,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0743-network-delay-time/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -435,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0743-network-delay-time/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -518,4 +523,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/Poornachandra333/LeetCode-Problems/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
